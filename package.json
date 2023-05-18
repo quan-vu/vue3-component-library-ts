@@ -1,0 +1,27 @@
+{
+  "name": "vue3-component-library-ts",
+  "version": "0.0.1",
+  "description": "Simple Vue 3 component library template with TypeScript and Vite",
+  "author": "Quan Vu <huyquan.vu.1@gmail.com>",
+  "main": "index.js",
+  "scripts": {
+    "build": "vite build",
+    "serve": "vite preview",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vue",
+    "vue3",
+    "typescript",
+    "vite",
+    "component",
+    "library"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.2.3",
+    "typescript": "^5.0.4",
+    "vite": "^4.3.7",
+    "vue": "^3.2.36"
+  }
+}
